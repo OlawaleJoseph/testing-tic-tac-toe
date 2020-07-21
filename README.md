@@ -6,9 +6,14 @@ In this project we tested our tic tac toe game.
 ## Getting Started
 
 - To clone enter this command in your terminal 
-- `git clone https://@github.com:OlawaleJoseph/tic-tac-toe.git`
+- `git clone https://github.com:OlawaleJoseph/tic-tac-toe.git`
 - `cd` into the project directory
 - Run `git checkout -b your-branch-name` e.g `git checkout -b develop`
+
+## How To Run Tests
+- Open a terminal and run `gem install rspec`
+- Run `rspec` in the terminal
+- Red colored text indicates the errors while green indicates no errors.
 
 ## 🤝 Contributing
 
