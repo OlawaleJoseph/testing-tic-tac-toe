@@ -10,6 +10,11 @@ In this project we tested our tic tac toe game.
 - `cd` into the project directory
 - Run `git checkout -b your-branch-name` e.g `git checkout -b develop`
 
+## How To Run Tests
+- Open a terminal and run `gem install rspec`
+- Run `rspec` in the terminal
+- Red colored text indicates the errors while green indicates no errors.
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome! Start by:
